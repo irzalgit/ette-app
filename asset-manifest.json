@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ette-app/static/css/main.fa44ef84.chunk.css",
+    "main.js": "/ette-app/static/js/main.a93a2191.chunk.js",
+    "main.js.map": "/ette-app/static/js/main.a93a2191.chunk.js.map",
+    "runtime-main.js": "/ette-app/static/js/runtime-main.1937bbae.js",
+    "runtime-main.js.map": "/ette-app/static/js/runtime-main.1937bbae.js.map",
+    "static/js/2.f140be18.chunk.js": "/ette-app/static/js/2.f140be18.chunk.js",
+    "static/js/2.f140be18.chunk.js.map": "/ette-app/static/js/2.f140be18.chunk.js.map",
+    "static/js/3.253780af.chunk.js": "/ette-app/static/js/3.253780af.chunk.js",
+    "static/js/3.253780af.chunk.js.map": "/ette-app/static/js/3.253780af.chunk.js.map",
+    "index.html": "/ette-app/index.html",
+    "static/css/main.fa44ef84.chunk.css.map": "/ette-app/static/css/main.fa44ef84.chunk.css.map",
+    "static/js/2.f140be18.chunk.js.LICENSE.txt": "/ette-app/static/js/2.f140be18.chunk.js.LICENSE.txt",
+    "static/media/logo.61d6f5f9.svg": "/ette-app/static/media/logo.61d6f5f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1937bbae.js",
+    "static/js/2.f140be18.chunk.js",
+    "static/css/main.fa44ef84.chunk.css",
+    "static/js/main.a93a2191.chunk.js"
+  ]
+}
